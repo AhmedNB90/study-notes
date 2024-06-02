@@ -1,4 +1,4 @@
-Sure, here is the content formatted in Markdown:
+
 
 ---
 
@@ -35,11 +35,11 @@ Sure, here is the content formatted in Markdown:
 ### `sed` Command (Stream Editor)
 - Used to find and replace text in files. For example, consider a file called `userdata.txt` with the following content:
   ```
-  ravi seattle  usa                 392223543231 india
+  ravi seattle  usa          392223543231 india
   mark toronto canada        123445678865 canada
-  john newyork usa              443567898864 usa
-  ravi montreal canda          456345645674 canda
-  mary ottawa  canda           334566765433 canda
+  john newyork usa           443567898864 usa
+  ravi montreal canda        456345645674 canda
+  mary ottawa  canda         334566765433 canda
   ```
 - To find and replace `canda` with `canada`:
   ```sh
@@ -75,4 +75,3 @@ Sure, here is the content formatted in Markdown:
 
 ---
 
-This Markdown file contains the essential commands and their descriptions for manipulating and comparing file content using the command line.
