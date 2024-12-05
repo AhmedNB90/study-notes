@@ -1,6 +1,3 @@
-Sure, I'll format the information as a Markdown (.md) file for you.
-
-```markdown
 # Pagers and VIM Text Editor
 
 ## Pagers
