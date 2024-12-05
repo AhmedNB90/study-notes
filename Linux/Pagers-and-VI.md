@@ -58,5 +58,3 @@
   - If you want to exit without saving, type `q!`.
 
 ```
-
-Save the above content in a file with the `.md` extension, and you'll have a well-formatted Markdown document with the required information.
